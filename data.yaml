@@ -1,0 +1,6 @@
+train: ../images/train
+val: ../images/train
+test: ../images/train
+
+nc: 3
+names: ['Tear', 'Unstitched', 'Hole']
